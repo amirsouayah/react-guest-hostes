@@ -1,0 +1,16 @@
+.slide{
+    max-height: 700px;
+    overflow: hidden;
+}
+
+img{
+    max-height: 600px;
+}
+
+.carousel1{
+    z-index: -1;
+}
+
+.Text{
+    z-index: 0;
+}
